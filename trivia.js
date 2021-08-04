@@ -1,3 +1,4 @@
+
 const questions = [
     {
         question: "What is the name of the final course of all 'Mario Kart' video games?",
